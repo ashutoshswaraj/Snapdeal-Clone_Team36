@@ -6,7 +6,7 @@ We cloned and upgraded our last construct week project upGrad .
 
 In this project the tech stack we used :-   <br>
 
-TML<br>
+HTML<br>
 CSS <br>
 Javascript <br>
 <img src="https://i.imgur.com/22cpsS4.jpg"/>
